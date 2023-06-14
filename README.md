@@ -77,7 +77,8 @@ A continuación puede verse una vista previa del resultado de este flow.
 # Créditos
 
 Desarrollado por Ricardo Acosta con ayuda del profesor Hugo Escalpelo
--[GitHub](https://github.com/RicardoAcost)
+
+-[Mi GitHub](https://github.com/RicardoAcost)
 
 Github y redes del profesor Hugo
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
